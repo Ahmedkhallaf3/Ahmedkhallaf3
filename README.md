@@ -1,16 +1,33 @@
-## Hi there 👋
+# Hi, I'm Ahmed Khallaf 👋
 
-<!--
-**Ahmedkhallaf3/Ahmedkhallaf3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Laravel Backend Developer
 
-Here are some ideas to get you started:
+💻 I build scalable RESTful APIs, real-time systems, and booking platforms using Laravel.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tech Stack
+- PHP, Laravel
+- MySQL
+- RESTful APIs
+- JWT Authentication
+- WebSockets, Pusher
+- Payment Integration
+
+## 📌 Featured Projects
+
+### 🚗 Motor Souq
+Vehicle marketplace with real-time chat system  
+🔗 https://motors-sooq.vercel.app/en
+
+### 🏨 Tawaf
+Hotel booking system with payment integration  
+🔗 https://tawaf.vercel.app/en
+
+### 🛒 Sova
+E-commerce platform with cart & checkout  
+🔗 https://sova-brand.vercel.app/
+
+---
+
+📫 Reach me:
+- Email: ahmed2562004@gmail.com
+- LinkedIn: linkedin.com/in/ahmed-khallaf-ba27541a8
