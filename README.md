@@ -16,15 +16,13 @@
 
 ### 🚗 Motor Souq
 Vehicle marketplace with real-time chat system  
-🔗 https://motors-sooq.vercel.app/en
+
 
 ### 🏨 Tawaf
 Hotel booking system with payment integration  
-🔗 https://tawaf.vercel.app/en
 
 ### 🛒 Sova
 E-commerce platform with cart & checkout  
-🔗 https://sova-brand.vercel.app/
 
 ---
 
