@@ -1,45 +1,29 @@
-# Hi, I'm Ahmed Khallaf 👋
+# Ahmed Khallaf
 
-## Laravel Backend Developer
+Backend Developer | Laravel Developer
 
-💻 I build scalable RESTful APIs, real-time systems, and booking platforms using Laravel.
+Experienced in developing RESTful APIs, authentication systems, payment integrations, and real-time applications using Laravel and MySQL.
 
-## 🚀 Tech Stack
-- PHP, Laravel
+## Technical Skills
+
+- PHP
+- Laravel
 - MySQL
 - RESTful APIs
+- Laravel Sanctum
 - JWT Authentication
-- WebSockets, Pusher
-- Payment Integration
+- WebSockets
+- Pusher
+- Git & GitHub
+- Postman
 
-## 📌 Featured Projects
+## Featured Projects
 
-### 🚗 Motor Souq
+### Motor Souq
+Laravel-based vehicle marketplace with real-time chat and advanced search.
 
-Vehicle marketplace with real-time chat system
-Built a vehicle marketplace platform serving 100+ users.
-Implemented authentication, advanced search, filtering, and image uploads.
-Developed real-time chat system using WebSockets and Pusher.
-Added location-based listing functionality.
+### Tawaf
+Hotel booking platform with reservation management and payment integration.
 
-### 🏨 Tawaf
-
-Hotel booking system with payment integration
-Developed a full-featured hotel reservation system.
-Implemented search, filtering, and reservation logic.
-Integrated secure payment gateway.
-Built admin dashboard for managing bookings.
-
-
-### 🛒 Sova
-
-E-commerce platform with cart & checkout
-Developed a complete e-commerce platform.
-Implemented shopping cart and checkout system.
-Built inventory and order tracking system.
-Added dynamic product filtering and search.
----
-
-📫 Reach me:
-- Email: ahmed2562004@gmail.com
-- LinkedIn: linkedin.com/in/ahmed-khallaf-ba27541a8
+### Sova
+E-commerce platform with shopping cart, checkout, and order management.
